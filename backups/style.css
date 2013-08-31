@@ -141,3 +141,12 @@ a {
 .content p {
   padding: 0 16px;
 }
+.IamBADatTHIS {
+	font-family: System;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #000;
+}

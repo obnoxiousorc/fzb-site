@@ -11,4 +11,4 @@ Please update README with stuff you updated and stuff you plan to update.
 	~TheDurtch: Created servers, links, and member pages
 	~TheDurtch: Added content to home page.
 	~TheDurtch: Added Donation Information.
-	~TheDurtch: added a class to all style.css
+	~TheDurtch: Added a class to all style.css

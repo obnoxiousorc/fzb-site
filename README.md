@@ -10,3 +10,5 @@ Please update README with stuff you updated and stuff you plan to update.
 	~TheDurtch: Finished with backups page
 	~TheDurtch: Created servers, links, and member pages
 	~TheDurtch: Added content to home page.
+	~TheDurtch: Added Donation Information.
+	~TheDurtch: added a class to all style.css

@@ -150,3 +150,17 @@ a {
 	font-variant: small-caps;
 	color: #000;
 }
+.footer {
+	position: absolute;
+	visibility: visible;
+	bottom: 0px;
+	width: 70%;
+	margin: auto;
+	height: 60px;
+	text-align: center;
+	border: 2px solid black;
+	left: 15%;
+	right: 15%;
+}
+.testCLASS {
+}

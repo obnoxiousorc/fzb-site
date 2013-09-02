@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body_text {
+	font-size: 24px;
+}
+
+
+section#main .image {
+  float:left;
+  width:200px;
+  padding:0px;
+  margin: 0px 0px 0px 0px;
+}
